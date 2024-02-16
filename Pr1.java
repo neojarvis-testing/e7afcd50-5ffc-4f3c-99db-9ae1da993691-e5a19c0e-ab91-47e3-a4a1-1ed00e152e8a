@@ -101,3 +101,6 @@ public class LoginPage {
         scanner.close();
     }
 }
+public class student{
+    System.out.println("welcome");
+}
