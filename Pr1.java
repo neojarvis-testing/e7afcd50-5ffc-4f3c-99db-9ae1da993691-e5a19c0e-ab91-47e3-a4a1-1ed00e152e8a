@@ -102,5 +102,5 @@ public class LoginPage {
     }
 }
 public class student{
-    System.out.println("welcome");
+    System.out.println("uikjwelcome");
 }
